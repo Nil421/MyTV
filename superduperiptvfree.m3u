@@ -234,6 +234,7 @@ http://208.86.19.21:80/736.stream/index.m3u8
 http://208.86.19.21:80/737.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-cricket.png" group-title="Sports",super sports cricket
 http://103.157.210.165:8000/play/a024/index.m3u8
+#http://qqtv.nl:8080/live/owen1/1owen/30621.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", Sky Sports Cricket
 http://93.152.174.144:4000/play/skysports2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C49YuUd.jpg" group-title="Sports", Sky Sports Football
@@ -246,6 +247,8 @@ http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 http://208.86.19.21:80/610.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1048556098582708224/qPWHnIYD_400x400.jpg" group-title="Sports",Geo Super
 http://208.86.19.21:80/725.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",la liga tv
+http://194.67.196.19:80/hls/103.m3u8
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1  Premium
 #http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
 http://58.65.194.14:1935/live/trace%20sports%20HD.stream/playlist.m3u8
